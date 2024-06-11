@@ -12,6 +12,8 @@
 
 **Easy-Buffer** is based on single loop buffer like Quiver or the Prusa MMU2 Filament Retract Bank. It can be associated to the ERCT-lite, for people that can't use the official Cotton Tail (ERCT)
 
+The bottom clamp is designed to hold 3 buffer towers on a Voron 2.4 350. For other printer, the clamp should be redesigned. 
+
 It consists of :
   * 150mm high stackable buffer towers.
   * A interface block.
