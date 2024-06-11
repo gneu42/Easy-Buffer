@@ -35,6 +35,7 @@ Just move the lever to the **L** position, and insert the filament until it reac
 
 ## Summary.
 * **[Bom](#bom)**
+   
 
 
 ## BOM.
@@ -46,6 +47,7 @@ For each buffer head you need :
    * 1 ECAS (on the filament path).
    * 1 optional sprint 3.7x7 spring (0.5mm wire). 
    * 1 optional 4mm ball.
+   * 1 608ZZ bearing
 
 For each buffer tower you need :
    * 2 M3 inserts.
