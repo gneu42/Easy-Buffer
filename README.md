@@ -28,8 +28,11 @@ Just move the lever to the **L** position, and insert the filament until it reac
 
 
 
-<p align=center><img src="Images/EB-head-side.JPG" width="250" alt=""><img src="Images/EB-B-L.JPG" width="250" alt=""><img src="Images/EB-load.JPG" width="250" alt=""><img src="Images/EB-Buffer.JPG" width="250" alt=""></p>
-***
+<p align=center><img src="Images/EB-head-side.JPG" width="250" alt=""><img src="Images/EB-B-L.JPG" width="250" alt=""></p>
+<p align=center><img src="Images/EB-load.JPG" width="250" alt=""><img src="Images/EB-Buffer.JPG" width="250" alt=""></p>
+
+
+
 ## Summary.
 * **[Bom](#bom)**
 
