@@ -6,7 +6,7 @@
 
 <H2 align="center">ERCF Buffer with assisted loading function for ERCF V2.</H1>
 
-<p align=center><img src="Images/EB-full.JPG" width="350" alt=""></P>
+<p align=center><img src="Images/EB-full.JPG" height="400" alt=""><img src="Images/EB-3D-full.JPG" height="400" alt=""></P>
 ## What is it ?
 
 **Easy-Buffer** is based on single loop buffer like Quiver or the Prusa MMU2 Filament Retract Bank. 
@@ -28,8 +28,8 @@ Just move the lever to the **L** position, and insert the filament until it reac
 
 
 
-<p align=center><img src="Images/EB-head-side.JPG" width="250" alt="">  <img src="Images/EB-B-L.JPG" width="250" alt=""></p>
-<p align=center><img src="Images/EB-load.JPG" width="250" alt="">  <img src="Images/EB-buffer.JPG" width="250" alt=""></p>
+<p align=center><img src="Images/EB-head-side.JPG" height="250" alt="">  <img src="Images/EB-B-L.JPG" height="250" alt=""></p>
+<p align=center><img src="Images/EB-load.JPG" height="250" alt="">  <img src="Images/EB-buffer.JPG" height="250" alt=""></p>
 
 
 
