@@ -65,8 +65,8 @@ For each interface plate you need :
    * 4 perimeters
    * 25% infill
      
-## **cleaning-tips:**
+## **Cleaning-tips:**
    The tolerances are quite tight, depending on your printer, you may need to clean the guide and lever holes so they turn freely.
 
-## **assembling-tips:**
+## **Assembling-tips:**
    Coming soon
