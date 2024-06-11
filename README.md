@@ -7,9 +7,11 @@
 <H2 align="center">ERCF Buffer with assisted loading function for ERCF V2.</H1>
 
 <p align=center><img src="Images/EB-full.JPG" height="400" alt=""><img src="Images/EB-3D-full.JPG" height="400" alt=""></P>
+
 ## What is it ?
 
-**Easy-Buffer** is based on single loop buffer like Quiver or the Prusa MMU2 Filament Retract Bank. 
+**Easy-Buffer** is based on single loop buffer like Quiver or the Prusa MMU2 Filament Retract Bank. It can be associated to the ERCT-lite, for people that can't use the official Cotton Tail (ERCT)
+
 It consists of :
   * 150mm high stackable buffer towers.
   * A interface block.
@@ -21,11 +23,10 @@ It consists of :
         * a lever.
         * an magnetic PTFE output.
 
-Using the pre-gate function of Happy Hare, the loading of the filament in the ERCF takes only a few seconds from the insertion into the buffer and the parking in the filament block.
+Using the pre-gate function of Happy Hare, the loading of the filament in the ERCF takes only a few seconds from the insertion into the buffer to the parking in the filament block.
 
-Just move the lever to the **L** position, and insert the filament until it reaches the ERCF gate. Happy Hare pull it and push it back to the parking position. At this moment, filp the lever to the **B** position. And it is done, ready for printing.
+To load the filament, simply move the lever to the **L** position, and insert the filament until it reaches the ERCF gate. Happy Hare will pull it and push it back to the parking position. At this moment, filp the lever to the **B** position. That's it. It is ready for printing.
   
-
 
 
 <p align=center><img src="Images/EB-head-side.JPG" height="250" alt="">  <img src="Images/EB-B-L.JPG" height="250" alt=""></p>
@@ -35,8 +36,9 @@ Just move the lever to the **L** position, and insert the filament until it reac
 
 ## Summary.
 * **[Bom](#bom)**
-   
-
+* **[Printing tips](#printing-tips)**   
+* **[Cleaning tips](#cleaning-tips)**
+* **[Assembling tips](#assembling-tips)**
 
 ## BOM.
 For each buffer head you need :  
@@ -58,4 +60,13 @@ For each interface plate you need :
    * 2 M3x6 SHSC screws. 
    * 4 M3x8 SHSC screws.
 
+## **Printing tips:**
+   I have printed the parts in PLA with the following settings :
+   * 4 perimeters
+   * 25% infill
+     
+## **cleaning-tips:**
+   The tolerances are quite tight, depending on your printer, you may need to clean the guide and lever holes so they turn freely.
 
+## **assembling-tips:**
+   Coming soon
