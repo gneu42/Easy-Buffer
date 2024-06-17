@@ -47,7 +47,7 @@ For each buffer head you need :
    * 2 M3x12 SHSC screws. 
    * 2 M3 inserts.
    * 1 6x3 magnets.
-   * 2 10x3x4 magnet (with 4mm hole).
+   * 2 10x4x4 magnets (with 4mm hole).
    * 1 ECAS (on the filament path).
    * 1 optional sprint 3.7x7 spring (0.5mm wire). 
    * 1 optional 4mm ball.
