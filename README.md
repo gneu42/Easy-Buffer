@@ -68,7 +68,12 @@ For each interface plate you need :
    * 25% infill
      
 ## **Cleaning-tips:**
+   Remove all supports. (see assembly instructions)
+
    The tolerances are quite tight, depending on your printer, you may need to clean the guide and lever holes so they turn freely.
 
 ## **Assembling-tips:**
-   Coming soon
+
+   * The provided Bottom Clamp is designed to hold a 3 Buffer tower on a Voron 2.4-350mm. 
+
+   * [Assembly instructions.pdf](Assembly_instructions.pdf)
