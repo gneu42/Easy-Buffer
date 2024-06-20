@@ -64,7 +64,7 @@ For the 2020 mounting plate yu need :
    * 2 M3x8 SHCS
 
 For the bottom clamp (only for Voron V2-350)
-   * 1 M3x8 SHCS
+   * 1 M3x12 SHCS
    * 1 M3 Hammer nuts
 
 ## **Printing tips:**
