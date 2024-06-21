@@ -115,4 +115,6 @@ Once the lever is on the "B" position, it will not be possible to move it to the
       The whole system relies on the guide sliding over the filament. To do this, the guide must also bend the filament slightly over a short length. Depending on the type and smoothness of your filament, it is possible that the guide has problem to slide over or bend the filament.
       In that case, pushing a bit the filament coming from the spool into the head to release pressure will normally allow the lever to go to the "B" position.  
 
+  * If all is working well, it is possible to load 10 filaments in 3 minutes.
+<p align=center><a href="https://www.youtube.com/watch?v=DgUEvmY9lbY&t=5s" target="_blank"><img src="Images/Loading.JPG" alt="Loading" width="60%" border="10" /></a> 
 
